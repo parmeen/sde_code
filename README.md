@@ -19,3 +19,4 @@ Minimize memory has two parameters:
 int process[n]: kilobytes occupied by each process
 int m: the fixed number of contiguous applications in a segment
 returns: int: the minimum amount of main memory taken up after the deletion of a contiguous segment of size m
+
